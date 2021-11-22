@@ -1,6 +1,6 @@
 const textEl = document.getElementById('text')
 const speedEl = document.getElementById('speed')
-const text = 'My keyboard knows how to type by himself!'
+const text = 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil consequatur nulla numquam vitae? Error tenetur rerum dolore vero ipsa nam dignissimos aut quam! Aspernatur quaerat optio eius dolores dolor ad illo natus, quidem voluptatem aperiam blanditiis, nisi ea voluptas distinctio officia beatae excepturi quia magnam? Harum sed fugit itaque facere.'
 let idx = 1
 let speed = 300 / speedEl.value
 
