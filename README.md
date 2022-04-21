@@ -8,5 +8,7 @@ e contém e estudos sobre:
 - Utilização de áudio;
 - Animações com CSS;
 - Criação e manipulação de classes CSS com Javascript;
-- HOFs (High Order Function);
+- HOFs (High Order Functions);
 - Consumo de API (.then e async/await);
+- Manipulação do DOM;
+- Uso do canvas no contexto 2d;
